@@ -1,0 +1,32 @@
+.content-section {
+    text-align: center;
+    font-size: 20px;
+    color: #fffcfc;
+	margin-bottom: 10%;
+}
+
+
+.view {
+	margin-top: 8%;
+	font-size: 50px;
+	
+}
+
+button {
+    border-radius: 20px;
+    border: 1px solid #FF4B2B;
+    background-color: #FF4B2B;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+	transition: transform 80ms ease-in;
+	margin: 10px 20px 0px 30px;
+}
+
+.sp-b {
+	color: antiquewhite;
+	background: white;
+}

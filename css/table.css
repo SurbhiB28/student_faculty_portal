@@ -1,0 +1,19 @@
+table, th, td 
+{
+	color: black;
+	border: 3px solid #693c3c;
+	border-collapse: collapse;
+	position: unset;
+	background: white;
+	width: 40%;
+	margin-top : 5%;
+	margin-left: auto;
+	text-overflow: ellipsis;
+	margin-right: auto;
+	opacity : 0.8;
+}
+th, td
+{
+	padding: 15px;
+	text-align: left;
+}
